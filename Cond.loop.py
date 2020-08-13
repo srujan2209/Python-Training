@@ -7,7 +7,9 @@
 # Input number of rows: 3
 # Input number of columns: 4
 # Output
-# [[0, 0, 0, 0], [0, 1, 2, 3], [0, 2, 4, 6]]
+# [[0, 0, 0, 0],
+# [0, 1, 2, 3],
+# [0, 2, 4, 6]]
 
 row_num = int(input("Input number of rows: "))
 col_num = int(input("Input number of columns: "))
